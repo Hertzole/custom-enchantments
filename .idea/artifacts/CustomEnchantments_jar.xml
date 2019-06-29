@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomEnchantments:jar">
+    <output-path>$PROJECT_DIR$/../../Servers/Plugin Testing 1.14/plugins</output-path>
+    <root id="archive" name="CustomEnchantments.jar">
+      <element id="module-output" name="CustomEnchantments" />
+      <element id="module-output" name="McHertzLib" />
+    </root>
+  </artifact>
+</component>

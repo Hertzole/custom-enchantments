@@ -1,0 +1,20 @@
+name: CustomEnchantments
+version: 1.0-SNAPSHOT
+main: se.hertzole.customenchantments.CustomEnchantments
+api-version: 1.13
+authors: [Hertzole]
+description: Custom enchantments for various items.
+website: www.hertzole.se
+commands:
+  ce:
+    description: Base command for Custom Enchantments.
+    usage: |
+      Custom Enchantments failed to load
+      There is an error in your server log with details.
+    aliases: [customenchantments]
+permissions:
+  customenchantments.admin:
+    description: Gives access to all admin commands.
+    default: op
+    children:
+      customenchantments.admin.reload: true

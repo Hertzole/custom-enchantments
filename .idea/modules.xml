@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomEnchantments.iml" filepath="$PROJECT_DIR$/CustomEnchantments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../McHertzLib/McHertzLib.iml" filepath="$PROJECT_DIR$/../McHertzLib/McHertzLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PlayerRegions/PlayerRegions.iml" filepath="$PROJECT_DIR$/../PlayerRegions/PlayerRegions.iml" />
+    </modules>
+  </component>
+</project>

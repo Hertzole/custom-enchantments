@@ -1,0 +1,42 @@
+# ---- [ NOTICE ] ----
+# You can't add new enchantments,
+# but you can change the existing ones.
+prefix: '&f[&9Custom Enchantments&f]'
+enchantments:
+  auto_replanter:
+    required_lore: '&7Auto Replanter'
+    durability: true
+    affected_by_unbreaking: true
+    items:
+      - wooden_hoe
+      - stone_hoe
+      - iron_hoe
+      - golden_hoe
+      - diamond_hoe
+    blocks:
+      wheat: wheat_seeds
+      potatoes: potato
+      carrots: carrot
+      beetroots: beetroot_seeds
+      nether_wart: nether_wart
+  vein_miner:
+    required_lore: '&7Vein Miner'
+    durability: true
+    affected_by_unbreaking: true
+    affected_by_silk_touch: true
+    max_blocks: 16
+    items:
+      - wooden_pickaxe
+      - stone_pickaxe
+      - iron_pickaxe
+      - golden_pickaxe
+      - diamond_pickaxe
+    blocks:
+      - coal_ore
+      - iron_ore
+      - gold_ore
+      - lapis_ore
+      - redstone_ore
+      - diamond_ore
+      - emerald_ore
+      - nether_quartz_ore

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlayerRegions:jar">
+    <output-path>$PROJECT_DIR$/../../Servers/Plugin Testing 1.14/plugins</output-path>
+    <root id="archive" name="PlayerRegions.jar">
+      <element id="module-output" name="PlayerRegions" />
+      <element id="module-output" name="McHertzLib" />
+    </root>
+  </artifact>
+</component>
